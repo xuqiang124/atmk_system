@@ -2,7 +2,6 @@ import numpy as np
 import tensorflow as tf
 import keras.backend as K
 import logging
-from sklearn.metrics import accuracy_score
 import tensorflow_addons as tfa
 
 
@@ -327,7 +326,7 @@ def accuracy_k(y_true, y_pred, k):
             y_pred[i][rank_mat[i, :-(m + 1)]] = 0
         y_pred = np.ceil(y_pred)
         correct_preds[m] = np.sum(np.any(y_pred * y_true, axis=1))
-    accuracies = correct_preds / y_true.shape[0]
+    accuracies = correct_preds / y_true.shape[0] # 正确预测的总数 / 总样本数
     return np.around(accuracies, decimals=4)[k]
 
 

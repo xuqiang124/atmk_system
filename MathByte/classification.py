@@ -33,13 +33,9 @@ if __name__ == '__main__':
     logging.info(config)
     # 加载数据
     logging.info("Loading data...")
-    word2index, label2index, X, y = utils.load_data(
+    label2index,input_ids,attention_mask,label_list = utils.load_data(
         config.cache_file_h5py, config.cache_file_pickle)
-    config.vocab_size = len(word2index)
-    # config.num_classes = len(label2index)
-    # 加载预训练的向量
-    logging.info("Loading embeddings...")
-    embeddings_2dlist = utils.load_embed_data(config.embeddings)
+    # 
     label_emb_2dlist = None
     if config.get('label_embeddings', None):
         label_emb_2dlist = utils.load_embed_data(config.label_embeddings)
@@ -53,11 +49,13 @@ if __name__ == '__main__':
         model_name = "lbs"
     logging.info("model name %s" % model_name)
     # ========== model training: ==========
-    X = np.array(X)
-    y = np.array(y)
-    X_train1, X_test, y_train1, y_test = train_test_split(
-        X, y, test_size=0.25, random_state=3407)
-    print("TOTAL:", len(X),
+    X_input_ids = np.array(input_ids)
+    X_attention_mask = np.array(attention_mask)
+    y = np.array(label_list)
+    
+    X_train1, X_test, X_train_mask1, X_test_mask, y_train1, y_test = train_test_split(
+            X_input_ids, X_attention_mask, y, test_size=0.25, random_state=3407)
+    print("TOTAL:", len(X_input_ids),
           "TRAIN:", X_train1, len(X_train1),
           "TEST:", X_test, len(X_test))
 
@@ -79,8 +77,8 @@ if __name__ == '__main__':
     kf = KFold(n_splits=5,shuffle=True,random_state=3407)
     fold_results = []
     
-    for k, (train, val) in enumerate(kf.split(X_train1,y_train1)):
-        X_train, X_val, y_train, y_val = X[train], X[val], y[train], y[val]
+    for k, (train, val) in enumerate(kf.split(X_train1, y_train1)):
+        X_train, X_val, X_train_mask,X_val_mask, y_train, y_val = X_train1[train], X_train1[val],X_train_mask1[train],X_train_mask1[val],y_train1[train], y_train1[val]
 
         L_train = np.array([np.array(range(label_count)) for i in range(len(X_train))])
         L_val = np.array([np.array(range(label_count)) for i in range(len(X_val))])
@@ -95,10 +93,10 @@ if __name__ == '__main__':
         log_dir = os.path.join('logs', file_id)
         np.random.seed(3407)  # 这样保证了每次试验的seed一致
 
-        labs_model = trainer.LHABSModel(config, embeddings_2dlist, label_emb_matrix=label_emb_2dlist, use_att=args.use_att, use_lcm=args.use_lcm, log_dir=log_dir)
-        labs_model.train_and_val(X_train, y_train, L_train, X_val, y_val, L_val)
-
-        result = labs_model.validate(X_test, y_test, L_test)
+        labs_model = trainer.LHABSModel(config, label_emb_matrix=label_emb_2dlist, use_att=args.use_att, use_lcm=args.use_lcm, log_dir=log_dir)
+        
+        labs_model.train_and_val(X_train,X_train_mask, y_train, L_train, X_val, X_val_mask, y_val, L_val)
+        result = labs_model.validate(X_test, X_test_mask, y_test, L_test)
         fold_results.append(result)
 
     print("fold_result: ", fold_results)

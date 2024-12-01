@@ -1,13 +1,11 @@
 # this config is for dataset GeoQA
-cache_file_h5py: "../file_data/a7/math_data.h5"
-cache_file_pickle: "../file_data/a7/vocab_label.pkl"
-embeddings: "../file_data/a7/embeddings.pkl"
-maxlen: 120 # 句子最大长度
-emb_size: 300
-epochs: 100
-batch_size: 256 # 批处理尺寸, 感觉原则上越大越好,尤其是样本不均衡的时候, batch_size设置影响比较大
+cache_file_h5py: "../file_data/GeoQA/math_data_roberta.h5"
+cache_file_pickle: "../file_data/GeoQA/label2index.pkl"
+maxlen: 150 # 句子最大长度
+epochs: 150
+batch_size: 64 # 批处理尺寸, 感觉原则上越大越好,尤其是样本不均衡的时候, batch_size设置影响比较大
 alpha: 4 # new model 的 loss 中的 alpha
-hidden_size: 512 # lstm
+hidden_size: 768 # roberta
 num_classes_list: [49]
-l_patience: 2  # patience for early stopping
-b_patience: 3 # patience for basic model with a bigger patience
+l_patience: 10  # patience for early stopping
+b_patience: 10 # patience for basic model with a bigger patience

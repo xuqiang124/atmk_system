@@ -40,15 +40,35 @@ def load_data(cache_file_h5py, cache_file_pickle):
     f_data = h5py.File(cache_file_h5py, 'r')
     # return narray
     # https://stackoverflow.com/questions/46733052/read-hdf5-file-into-numpy-array
-    X = f_data['X'][()]
-    y = f_data['y'][()]
+    input_ids = f_data['input_ids'][()]
+    attention_mask = f_data['attention_mask'][()]
+    label_list = f_data['label_list'][()]
 
-    word2index, label2index = None, None
+    label2index = None
     with open(cache_file_pickle, 'rb') as data_f_pickle:
-        word2index, label2index = pickle.load(data_f_pickle)
-    return word2index, label2index, X, y
+        label2index = pickle.load(data_f_pickle)
+    return label2index,input_ids,attention_mask,label_list
 
-def load_data1(cache_file_h5py, cache_file_pickle):
+def load_labels(cache_file_h5py):
+    """
+    load data from h5py and pickle cache files
+    :param cache_file_h5py:
+    :param cache_file_pickle:
+    :return:
+    """
+    if not os.path.exists(cache_file_h5py):
+
+        raise RuntimeError("############################ERROR##############################\n. "
+                           "请先准备数据集")
+    f_data = h5py.File(cache_file_h5py, 'r')
+    # return narray
+    # https://stackoverflow.com/questions/46733052/read-hdf5-file-into-numpy-array
+    input_ids = f_data['input_ids'][()]
+    attention_mask = f_data['attention_mask'][()]
+
+    return input_ids,attention_mask
+
+def load_formula(cache_file_h5py, cache_file_pickle):
     """
     load data from h5py and pickle cache files
     :param cache_file_h5py:
@@ -62,15 +82,12 @@ def load_data1(cache_file_h5py, cache_file_pickle):
     f_data = h5py.File(cache_file_h5py, 'r')
     # return narray
     # https://stackoverflow.com/questions/46733052/read-hdf5-file-into-numpy-array
-    X1 = f_data['X1'][()]
-    y1 = f_data['y1'][()]
-    X2 = f_data['X2'][()]
-    y2 = f_data['y2'][()]
+    formula = f_data['X_mathml'][()]
 
     word2index, label2index = None, None
     with open(cache_file_pickle, 'rb') as data_f_pickle:
         word2index, label2index = pickle.load(data_f_pickle)
-    return word2index, label2index, X1, y1, X2, y2
+    return word2index, label2index, formula
 
 
 def load_embed_data(embedding_pickle):
