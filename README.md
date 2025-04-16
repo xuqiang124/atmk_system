@@ -1,4 +1,5 @@
 # Tagging Knowledge Concepts for Math Problems Based on Multi-label Text Classification
+The paper is published on [Expert Systems with Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030999?via%3Dihub).
 The supplementary materials include: the dataset of the experiment, the code for model training, 
 and the data of experimental results.
 
@@ -16,7 +17,7 @@ information and mathematical expressions, as well as 427 corresponding categorie
 organized into 16 parent categories of knowledge concepts. We save the data on an anonymous website: figshare.com.
 The original data are saved on website: [DA-20k(original)](https://figshare.com/s/2be2eb2c06d00a9e4349) (https://figshare.com/s/2be2eb2c06d00a9e4349). 
 
-We preprocess the data and save them on webset: [Preprocessed data for automatic tagging of knowledge concepts](https://figshare.com/s/7257c04bdf3ba689b126) (https://figshare.com/s/7257c04bdf3ba689b126).
+We preprocess the data and save them on webset: [Preprocessed data for automatic tagging of knowledge concepts](https://figshare.com/s/16c87fb0e3b73037035a) (https://figshare.com/s/16c87fb0e3b73037035a).
 
 You can download the Dataset and save them to the `/file_data` folder. An ideal example of directory `file_data` is like:
 
