@@ -1,0 +1,2564 @@
+[
+    {
+        "label_id": 3,
+        "name": "集合的含义",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 4,
+        "name": "元素与集合关系的判断",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 5,
+        "name": "集合的确定性、互异性、无序性",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 7,
+        "name": "集合的表示法",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 8,
+        "name": "子集与真子集",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 9,
+        "name": "集合的包含关系判断及应用",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 10,
+        "name": "集合的相等",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 12,
+        "name": "空集的定义、性质及运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 13,
+        "name": "集合关系中的参数取值问题",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 14,
+        "name": "并集及其运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 15,
+        "name": "交集及其运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 16,
+        "name": "补集及其运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 18,
+        "name": "交、并、补集的混合运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 19,
+        "name": "子集与交集、并集运算的转换",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 20,
+        "name": "Venn图表达集合的关系及运算",
+        "label_father_id": "f0",
+        "label_father_name": "集合"
+    },
+    {
+        "label_id": 22,
+        "name": "四种命题",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 23,
+        "name": "四种命题间的逆否关系",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 24,
+        "name": "四种命题的真假关系",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 25,
+        "name": "充分条件",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 26,
+        "name": "必要条件",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 27,
+        "name": "充要条件",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 32,
+        "name": "复合命题的真假",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 35,
+        "name": "全称量词命题",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 36,
+        "name": "存在量词命题",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 37,
+        "name": "命题的否定",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 38,
+        "name": "命题的真假判断与应用",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 39,
+        "name": "必要条件、充分条件与充要条件的判断",
+        "label_father_id": "f1",
+        "label_father_name": "命题逻辑"
+    },
+    {
+        "label_id": 41,
+        "name": "函数的概念及其构成要素",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 42,
+        "name": "判断两个函数是否为同一函数",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 43,
+        "name": "函数的定义域及其求法",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 44,
+        "name": "函数的值域",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 45,
+        "name": "函数的图象与图象变化",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 46,
+        "name": "函数解析式的求解及常用方法",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 51,
+        "name": "分段函数的解析式求法及其图象的作法",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 53,
+        "name": "函数的单调性及单调区间",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 54,
+        "name": "函数单调性的判断与证明",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 55,
+        "name": "函数单调性的性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 56,
+        "name": "复合函数的单调性",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 57,
+        "name": "函数的最值及其几何意义",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 58,
+        "name": "奇函数",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 59,
+        "name": "偶函数",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 60,
+        "name": "函数奇偶性的判断",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 61,
+        "name": "函数奇偶性的性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 62,
+        "name": "奇偶函数图象的对称性",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 63,
+        "name": "奇偶性与单调性的综合",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 64,
+        "name": "函数的图象",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 66,
+        "name": "函数的周期性",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 67,
+        "name": "函数恒成立问题",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 69,
+        "name": "函数的值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 70,
+        "name": "一次函数的性质与图象",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 71,
+        "name": "二次函数的图象",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 72,
+        "name": "二次函数的性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 73,
+        "name": "二次函数在闭区间上的最值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 76,
+        "name": "方根与根式及根式的化简运算",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 78,
+        "name": "根式与分数指数幂的互化及其化简运算",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 79,
+        "name": "有理数指数幂的运算性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 80,
+        "name": "有理数指数幂的化简求值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 82,
+        "name": "指数函数的定义、解析式、定义域和值域",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 83,
+        "name": "指数函数的图象与性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 85,
+        "name": "指数函数的单调性与特殊点",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 86,
+        "name": "指数函数单调性的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 87,
+        "name": "指数函数的实际应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 90,
+        "name": "指数式与对数式的互化",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 91,
+        "name": "对数的运算性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 92,
+        "name": "换底公式的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 94,
+        "name": "对数函数的定义域",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 95,
+        "name": "对数函数的值域与最值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 96,
+        "name": "对数值大小的比较",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 97,
+        "name": "对数函数的图象与性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 98,
+        "name": "对数函数的单调性与特殊点",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 101,
+        "name": "反函数",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 103,
+        "name": "对数函数图象与性质的综合应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 104,
+        "name": "幂函数的概念、解析式、定义域、值域",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 105,
+        "name": "幂函数的图象",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 107,
+        "name": "幂函数的性质",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 108,
+        "name": "幂函数的单调性、奇偶性及其应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 109,
+        "name": "根据实际问题选择函数类型",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 110,
+        "name": "分段函数的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 111,
+        "name": "函数最值的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 114,
+        "name": "函数与方程的综合运用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 115,
+        "name": "二分法求方程的近似解",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 117,
+        "name": "根的存在性及根的个数判断",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 118,
+        "name": "函数的零点与方程根的关系",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 119,
+        "name": "函数零点的判定定理",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 120,
+        "name": "函数的零点",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 123,
+        "name": "函数模型的选择与应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 125,
+        "name": "变化的快慢与变化率",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 126,
+        "name": "导数的几何意义",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 127,
+        "name": "导数的运算",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 128,
+        "name": "导数的加法与减法法则",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 129,
+        "name": "导数的乘法与除法法则",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 130,
+        "name": "简单复合函数的导数",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 131,
+        "name": "定积分",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 133,
+        "name": "定积分的简单应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 134,
+        "name": "函数的单调性与导数的关系",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 135,
+        "name": "利用导数研究函数的单调性",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 136,
+        "name": "函数在某点取得极值的条件",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 137,
+        "name": "利用导数研究函数的极值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 138,
+        "name": "利用导数求闭区间上函数的最值",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 139,
+        "name": "极限及其运算",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 140,
+        "name": "定积分在求面积中的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 141,
+        "name": "利用导数研究曲线上某点切线方程",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 144,
+        "name": "导数在最大值、最小值问题中的应用",
+        "label_father_id": "f2",
+        "label_father_name": "函数与导数"
+    },
+    {
+        "label_id": 147,
+        "name": "不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 148,
+        "name": "一元二次方程",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 149,
+        "name": "不等关系与不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 150,
+        "name": "不等式比较大小",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 151,
+        "name": "一元二次不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 152,
+        "name": "一元二次不等式的解法",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 154,
+        "name": "一元二次不等式与二次函数",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 155,
+        "name": "一元二次不等式与一元二次方程",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 159,
+        "name": "二元一次不等式（组）与平面区域",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 160,
+        "name": "简单线性规划",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 161,
+        "name": "简单线性规划的应用",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 162,
+        "name": "其他不等式的解法",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 163,
+        "name": "基本不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 164,
+        "name": "基本不等式在最值问题中的应用",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 165,
+        "name": "一元二次方程的解集及其根与系数的关系",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 166,
+        "name": "不等式的综合",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 167,
+        "name": "指、对数不等式的解法",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 170,
+        "name": "数列的概念及简单表示法",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 171,
+        "name": "数列的函数特性",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 172,
+        "name": "等差数列",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 173,
+        "name": "等差数列的通项公式",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 174,
+        "name": "等差数列的前n项和",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 176,
+        "name": "等比数列",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 177,
+        "name": "等比数列的通项公式",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 178,
+        "name": "等比数列的前n项和",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 180,
+        "name": "数列的应用",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 181,
+        "name": "等差关系的确定",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 182,
+        "name": "等比关系的确定",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 183,
+        "name": "数列的求和",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 184,
+        "name": "等差数列的性质",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 185,
+        "name": "等比数列的性质",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 186,
+        "name": "数列递推式",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 187,
+        "name": "数列与函数的综合",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 188,
+        "name": "数列的极限",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 191,
+        "name": "等差数列与等比数列的综合",
+        "label_father_id": "f4",
+        "label_father_name": "数列"
+    },
+    {
+        "label_id": 198,
+        "name": "向量的模",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 199,
+        "name": "零向量",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 200,
+        "name": "单位向量",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 201,
+        "name": "平行向量与共线向量",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 202,
+        "name": "相等向量与相反向量",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 203,
+        "name": "向量的加法及其几何意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 204,
+        "name": "向量的减法及其几何意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 205,
+        "name": "向量的三角形法则",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 206,
+        "name": "向量加减混合运算及其几何意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 207,
+        "name": "向量的共线定理",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 208,
+        "name": "两向量的和或差的模的最值",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 209,
+        "name": "向量数乘的运算及其几何意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 210,
+        "name": "向量的线性运算性质及几何意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 211,
+        "name": "向量加减法的应用",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 212,
+        "name": "平面向量的基本定理及其意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 213,
+        "name": "平面向量的正交分解及坐标表示",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 214,
+        "name": "平面向量的坐标运算",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 215,
+        "name": "平面向量共线（平行）的坐标表示",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 218,
+        "name": "平面向量数量积的含义与物理意义",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 219,
+        "name": "平面向量数量积的性质及其运算律",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 220,
+        "name": "平面向量数量积的坐标表示、模、夹角",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 221,
+        "name": "数量积的坐标表达式",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 222,
+        "name": "平面向量数量积的运算",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 223,
+        "name": "数量积表示两个向量的夹角",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 224,
+        "name": "数量积判断两个平面向量的垂直关系",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 225,
+        "name": "平面向量数量积坐标表示的应用",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 226,
+        "name": "向量在几何中的应用",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 228,
+        "name": "平面向量的综合题",
+        "label_father_id": "f5",
+        "label_father_name": "平面向量"
+    },
+    {
+        "label_id": 230,
+        "name": "虚数单位i及其性质",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 231,
+        "name": "复数的基本概念",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 232,
+        "name": "复数相等的充要条件",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 233,
+        "name": "复数的代数表示法及其几何意义",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 234,
+        "name": "复数代数形式的乘除运算",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 235,
+        "name": "复数代数形式的加减运算",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 236,
+        "name": "复数代数形式的混合运算",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 237,
+        "name": "复数求模",
+        "label_father_id": "f6",
+        "label_father_name": "复数"
+    },
+    {
+        "label_id": 240,
+        "name": "简单随机抽样",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 241,
+        "name": "分层抽样方法",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 242,
+        "name": "系统抽样方法",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 243,
+        "name": "收集数据的方法",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 245,
+        "name": "频率分布表",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 246,
+        "name": "频率分布直方图",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 247,
+        "name": "频率分布折线图、密度曲线",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 248,
+        "name": "茎叶图",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 249,
+        "name": "众数、中位数、平均数",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 250,
+        "name": "极差、方差与标准差",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 251,
+        "name": "用样本的频率分布估计总体分布",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 252,
+        "name": "用样本的数字特征估计总体的数字特征",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 253,
+        "name": "随机抽样和样本估计总体的实际应用",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 254,
+        "name": "变量间的相关关系",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 255,
+        "name": "两个变量的线性相关",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 256,
+        "name": "散点图",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 257,
+        "name": "最小二乘法",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 258,
+        "name": "线性回归方程",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 259,
+        "name": "独立性检验",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 260,
+        "name": "独立性检验的基本思想",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 261,
+        "name": "独立性检验的应用",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 262,
+        "name": "回归分析",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 263,
+        "name": "回归分析的初步应用",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 264,
+        "name": "可线性化的回归分析",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 265,
+        "name": "相关系数",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 269,
+        "name": "随机事件",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 270,
+        "name": "概率的意义",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 271,
+        "name": "概率的基本性质",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 272,
+        "name": "互斥事件与对立事件",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 273,
+        "name": "互斥事件的概率加法公式",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 275,
+        "name": "等可能事件的概率",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 276,
+        "name": "相互独立事件",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 277,
+        "name": "相互独立事件的概率乘法公式",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 278,
+        "name": "n次独立重复试验中恰好发生k次的概率",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 279,
+        "name": "古典概型及其概率计算公式",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 280,
+        "name": "列举法计算基本事件数及事件发生的概率",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 283,
+        "name": "几何概型",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 284,
+        "name": "离散型随机变量及其分布列",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 285,
+        "name": "离散型随机变量的期望与方差",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 288,
+        "name": "超几何分布",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 289,
+        "name": "超几何分布的应用",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 290,
+        "name": "条件概率与独立事件",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 291,
+        "name": "二项分布与n次独立重复试验的模型",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 293,
+        "name": "正态分布曲线的特点及曲线所表示的意义",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 296,
+        "name": "概率的应用",
+        "label_father_id": "f7",
+        "label_father_name": "概率与统计"
+    },
+    {
+        "label_id": 298,
+        "name": "分类加法计数原理",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 299,
+        "name": "分步乘法计数原理",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 300,
+        "name": "计数原理的应用",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 301,
+        "name": "排列及排列数公式",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 302,
+        "name": "组合及组合数公式",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 303,
+        "name": "排列数公式的推导",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 304,
+        "name": "组合数公式的推导",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 305,
+        "name": "排列、组合的实际应用",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 306,
+        "name": "排列、组合及简单计数问题",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 307,
+        "name": "二项式定理",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 308,
+        "name": "二项式系数的性质",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 309,
+        "name": "二项式定理的应用",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 310,
+        "name": "排列与组合的综合",
+        "label_father_id": "f8",
+        "label_father_name": "计数原理"
+    },
+    {
+        "label_id": 313,
+        "name": "辗转相除法与更相减损术",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 314,
+        "name": "进位制",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 321,
+        "name": "循环结构",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 322,
+        "name": "设计程序框图解决实际问题",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 323,
+        "name": "程序框图的三种基本逻辑结构的应用",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 329,
+        "name": "程序框图",
+        "label_father_id": "f9",
+        "label_father_name": "算法与框图"
+    },
+    {
+        "label_id": 338,
+        "name": "数学归纳法",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 340,
+        "name": "数学归纳法的证明步骤",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 341,
+        "name": "归纳推理",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 343,
+        "name": "类比推理",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 344,
+        "name": "进行简单的合情推理",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 346,
+        "name": "演绎推理的基本方法",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 347,
+        "name": "进行简单的演绎推理",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 349,
+        "name": "分析法和综合法",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 350,
+        "name": "分析法的思考过程、特点及应用",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 352,
+        "name": "反证法",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 353,
+        "name": "反证法的应用",
+        "label_father_id": "f10",
+        "label_father_name": "推理与证明"
+    },
+    {
+        "label_id": 358,
+        "name": "象限角、轴线角",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 359,
+        "name": "终边相同的角",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 360,
+        "name": "弧度制、角度制及其之间的换算",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 361,
+        "name": "扇形的弧长与面积",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 362,
+        "name": "任意角三角函数的定义",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 363,
+        "name": "三角函数值的符号",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 365,
+        "name": "同角三角函数间的基本关系",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 366,
+        "name": "同角三角函数基本关系的运用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 367,
+        "name": "诱导公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 368,
+        "name": "运用诱导公式化简求值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 370,
+        "name": "正弦函数的定义域和值域",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 371,
+        "name": "正弦函数的周期性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 372,
+        "name": "正弦函数的奇偶性与对称性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 373,
+        "name": "正弦函数的单调性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 374,
+        "name": "正弦函数的零点与最值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 375,
+        "name": "正弦函数的图象",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 376,
+        "name": "余弦函数的定义域和值域",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 377,
+        "name": "余弦函数的周期性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 378,
+        "name": "余弦函数的奇偶性与对称性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 379,
+        "name": "余弦函数的单调性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 380,
+        "name": "余弦函数的零点与最值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 381,
+        "name": "余弦函数的图象",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 382,
+        "name": "正切函数的定义域和值域",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 383,
+        "name": "正切函数的周期性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 385,
+        "name": "正切函数的单调性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 386,
+        "name": "正切函数的图象",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 388,
+        "name": "三角函数的周期性及其求法",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 389,
+        "name": "三角函数的最值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 390,
+        "name": "y=Asin（ωx+φ）中参数的物理意义",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 391,
+        "name": "五点法作函数y=Asin（ωx+φ）的图象",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 392,
+        "name": "函数y=Asin（ωx+φ）的图象变换",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 393,
+        "name": "由y=Asin（ωx+φ）的部分图象确定其解析式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 394,
+        "name": "复合三角函数的单调性",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 395,
+        "name": "三角函数模型的简单应用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 398,
+        "name": "两角和与差的余弦公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 399,
+        "name": "两角和与差的正弦公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 400,
+        "name": "两角和与差的正切公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 401,
+        "name": "二倍角的正弦公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 402,
+        "name": "二倍角的余弦公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 403,
+        "name": "二倍角的正切公式",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 408,
+        "name": "三角函数的恒等变换及化简求值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 409,
+        "name": "三角函数中的恒等变换应用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 410,
+        "name": "弦切互化",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 411,
+        "name": "三角函数的化简求值",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 413,
+        "name": "正弦定理",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 414,
+        "name": "余弦定理",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 415,
+        "name": "解三角形",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 416,
+        "name": "正弦定理的应用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 417,
+        "name": "余弦定理的应用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 418,
+        "name": "解三角形的实际应用",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 419,
+        "name": "三角形中的几何计算",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 420,
+        "name": "三角形的形状判断",
+        "label_father_id": "f11",
+        "label_father_name": "三角函数与解三角形"
+    },
+    {
+        "label_id": 424,
+        "name": "直线的倾斜角",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 425,
+        "name": "直线的斜率",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 426,
+        "name": "斜率的计算公式",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 427,
+        "name": "直线的图象特征与倾斜角、斜率的关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 428,
+        "name": "三点共线",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 429,
+        "name": "两条直线平行的判定",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 430,
+        "name": "两条直线平行与倾斜角、斜率的关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 431,
+        "name": "两条直线垂直的判定",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 432,
+        "name": "两条直线垂直与倾斜角、斜率的关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 433,
+        "name": "直线的点斜式方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 434,
+        "name": "直线的斜截式方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 435,
+        "name": "直线的两点式方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 436,
+        "name": "直线的截距式方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 437,
+        "name": "中点坐标公式",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 438,
+        "name": "直线的一般式方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 440,
+        "name": "直线的一般式方程与直线的平行关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 441,
+        "name": "直线的一般式方程与直线的垂直关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 444,
+        "name": "两条直线的交点坐标",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 447,
+        "name": "恒过定点的直线",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 448,
+        "name": "与直线关于点、直线对称的直线方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 449,
+        "name": "两点间的距离公式",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 450,
+        "name": "两点间距离公式的应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 451,
+        "name": "点到直线的距离公式",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 452,
+        "name": "两条平行直线间的距离",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 454,
+        "name": "与直线有关的动点轨迹方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 456,
+        "name": "圆的标准方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 457,
+        "name": "圆的一般方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 458,
+        "name": "轨迹方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 459,
+        "name": "二元二次方程表示圆的条件",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 460,
+        "name": "点与圆的位置关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 461,
+        "name": "关于点、直线对称的圆的方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 462,
+        "name": "圆的切线方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 463,
+        "name": "直线与圆相交的性质",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 464,
+        "name": "直线与圆的位置关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 465,
+        "name": "圆与圆的位置关系及其判定",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 469,
+        "name": "直线和圆的方程的应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 470,
+        "name": "圆方程的综合应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 472,
+        "name": "空间中的点的坐标",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 473,
+        "name": "空间两点间的距离公式",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 474,
+        "name": "圆锥曲线与方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 476,
+        "name": "椭圆的定义",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 477,
+        "name": "椭圆的标准方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 478,
+        "name": "椭圆的简单性质",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 479,
+        "name": "椭圆的应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 480,
+        "name": "抛物线的定义",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 481,
+        "name": "抛物线的标准方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 482,
+        "name": "抛物线的简单性质",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 483,
+        "name": "抛物线的应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 484,
+        "name": "双曲线的定义",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 485,
+        "name": "双曲线的标准方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 486,
+        "name": "双曲线的简单性质",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 487,
+        "name": "双曲线的应用",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 488,
+        "name": "曲线与方程",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 490,
+        "name": "圆锥曲线的综合",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 491,
+        "name": "圆锥曲线的轨迹问题",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 492,
+        "name": "直线与圆锥曲线的关系",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 493,
+        "name": "直线与圆锥曲线的综合问题",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 494,
+        "name": "圆与圆锥曲线的综合",
+        "label_father_id": "f12",
+        "label_father_name": "平面解析几何"
+    },
+    {
+        "label_id": 497,
+        "name": "由三视图求面积、体积",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 499,
+        "name": "三角形五心",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 500,
+        "name": "球面距离及相关计算",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 501,
+        "name": "组合几何体的面积、体积问题",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 503,
+        "name": "棱柱的结构特征",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 504,
+        "name": "棱锥的结构特征",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 505,
+        "name": "棱台的结构特征",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 506,
+        "name": "旋转体（圆柱、圆锥、圆台）",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 508,
+        "name": "简单空间图形的三视图",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 509,
+        "name": "由三视图还原实物图",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 512,
+        "name": "平面图形的直观图",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 514,
+        "name": "斜二测画法直观图",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 515,
+        "name": "棱柱、棱锥、棱台的侧面积和表面积",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 516,
+        "name": "棱柱、棱锥、棱台的体积",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 517,
+        "name": "球的体积和表面积",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 518,
+        "name": "多面体和旋转体表面上的最短距离问题",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 519,
+        "name": "平面的概念、画法及表示",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 520,
+        "name": "平面的基本性质及推论",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 521,
+        "name": "平行公理",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 523,
+        "name": "异面直线及其所成的角",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 524,
+        "name": "异面直线的判定",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 525,
+        "name": "空间中直线与直线之间的位置关系",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 526,
+        "name": "空间中直线与平面之间的位置关系",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 527,
+        "name": "平面与平面之间的位置关系",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 528,
+        "name": "球内接多面体",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 529,
+        "name": "直线与平面平行的判定",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 530,
+        "name": "直线与平面平行的性质",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 531,
+        "name": "平面与平面平行的判定",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 532,
+        "name": "平面与平面平行的性质",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 533,
+        "name": "直线与平面垂直的判定",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 534,
+        "name": "直线与平面垂直的性质",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 535,
+        "name": "平面与平面垂直的判定",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 536,
+        "name": "平面与平面垂直的性质",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 542,
+        "name": "共线向量与共面向量",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 543,
+        "name": "空间向量的数量积运算",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 544,
+        "name": "空间向量的夹角与距离求解公式",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 548,
+        "name": "空间点、线、面的位置",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 549,
+        "name": "直线的方向向量",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 550,
+        "name": "平面的法向量",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 555,
+        "name": "直线与平面所成的角",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 556,
+        "name": "与二面角有关的立体几何综合题",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 557,
+        "name": "点、线、面间的距离计算",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 558,
+        "name": "向量语言表述线线的垂直、平行关系",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 559,
+        "name": "向量语言表述线面的垂直、平行关系",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 561,
+        "name": "向量方法证明线、面的位置关系定理",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 562,
+        "name": "用空间向量求直线间的夹角、距离",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 563,
+        "name": "用空间向量求直线与平面的夹角",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 564,
+        "name": "用空间向量求平面间的夹角",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 565,
+        "name": "向量的投影",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 566,
+        "name": "二面角的平面角及求法",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 572,
+        "name": "相似三角形的性质",
+        "label_father_id": "f13",
+        "label_father_name": "空间向量与立体几何"
+    },
+    {
+        "label_id": 585,
+        "name": "二阶矩阵",
+        "label_father_id": "f14",
+        "label_father_name": "矩阵与变换"
+    },
+    {
+        "label_id": 596,
+        "name": "二阶行列式的定义",
+        "label_father_id": "f14",
+        "label_father_name": "矩阵与变换"
+    },
+    {
+        "label_id": 609,
+        "name": "简单曲线的极坐标方程",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 613,
+        "name": "点的极坐标和直角坐标的互化",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 616,
+        "name": "参数方程化成普通方程",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 617,
+        "name": "直线的参数方程",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 618,
+        "name": "圆的参数方程",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 619,
+        "name": "椭圆的参数方程",
+        "label_father_id": "f15",
+        "label_father_name": "参数方程"
+    },
+    {
+        "label_id": 625,
+        "name": "绝对值不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 626,
+        "name": "不等式的基本性质",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 627,
+        "name": "绝对值三角不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 628,
+        "name": "绝对值不等式的解法",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 632,
+        "name": "反证法与放缩法",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 633,
+        "name": "二维形式的柯西不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 634,
+        "name": "一般形式的柯西不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 635,
+        "name": "柯西不等式的几何意义",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    },
+    {
+        "label_id": 638,
+        "name": "平均值不等式",
+        "label_father_id": "f3",
+        "label_father_name": "等式与不等式"
+    }
+]
